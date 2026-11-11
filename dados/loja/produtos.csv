@@ -1,0 +1,41 @@
+id_produto,nome,categoria,preco
+1,Liquidificador,Eletro,102.92
+2,Ventilador,Eletro,287.62
+3,Batedeira,Eletro,251.75
+4,Torradeira,Eletro,134.11
+5,Cafeteira,Eletro,297.82
+6,Sanduicheira,Eletro,320.75
+7,Ferro de passar,Eletro,117.05
+8,Aspirador,Eletro,266.46
+9,Jogo de toalhas,Casa,192.02
+10,Panela,Casa,46.34
+11,Jogo de copos,Casa,208.44
+12,Tapete,Casa,241.89
+13,Luminária,Casa,44.86
+14,Organizador,Casa,25.91
+15,Lençol,Casa,91.75
+16,Cortina,Casa,175.79
+17,Caderno,Papelaria,115.19
+18,Caneta,Papelaria,50.62
+19,Agenda,Papelaria,87.23
+20,Estojo,Papelaria,13.74
+21,Marca-texto,Papelaria,84.42
+22,Mochila,Papelaria,77.13
+23,Calculadora,Papelaria,16.72
+24,Pasta,Papelaria,93.84
+25,Bola,Esporte,767.51
+26,Garrafa térmica,Esporte,546.36
+27,Tapete de yoga,Esporte,122.13
+28,Corda de pular,Esporte,394.11
+29,Halter,Esporte,707.63
+30,Bicicleta ergométrica,Esporte,322.28
+31,Joelheira,Esporte,394.11
+32,Luva de treino,Esporte,342.96
+33,Secador,Beleza,157.72
+34,Escova,Beleza,110.27
+35,Hidratante,Beleza,256.68
+36,Protetor solar,Beleza,248.83
+37,Chapinha,Beleza,42.4
+38,Perfume,Beleza,288.71
+39,Kit de maquiagem,Beleza,195.05
+40,Sabonete,Beleza,250.67

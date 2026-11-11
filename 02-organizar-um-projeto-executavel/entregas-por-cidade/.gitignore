@@ -1,0 +1,5 @@
+# Configuração da sua máquina e segredos: nunca vão para o Git.
+.env
+# O que o programa gera: sai de novo rodando o comando.
+saida/
+__pycache__/

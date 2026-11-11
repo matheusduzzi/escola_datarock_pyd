@@ -1,0 +1,13 @@
+id_pedido,id_cliente,data_pedido,categoria,valor,status
+101,1,2026-02-27,Casa,80.00,entregue
+102,1,2026-03-02,Casa,120.00,entregue
+103,2,2026-03-03,Esporte,45.50,entregue
+104,3,2026-03-05,Casa,60.00,cancelado
+105,3,2026-03-09,Esporte,,entregue
+106,4,2026-03-12,Eletro,250.00,entregue
+107,5,2026-03-15,Casa,35.00,entregue
+108,2,2026-03-18,Eletro,199.90,entregue
+109,3,2026-03-21,Casa,90.00,entregue
+110,4,2026-03-25,Esporte,70.00,cancelado
+111,5,2026-03-31,Esporte,55.00,entregue
+112,1,2026-04-01,Eletro,300.00,entregue

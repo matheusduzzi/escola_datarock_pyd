@@ -1,0 +1,301 @@
+id_cliente,nome,cidade,uf,data_cadastro
+1,Cliente 0001,Santos,SP,2025-01-13
+2,Cliente 0002,Limeira,SP,2025-05-06
+3,Cliente 0003,Sorocaba,SP,2025-02-22
+4,Cliente 0004,Santos,SP,2025-10-07
+5,Cliente 0005,Campinas,SP,2025-08-05
+6,Cliente 0006,Campinas,SP,2025-02-17
+7,Cliente 0007,Sorocaba,SP,2025-09-16
+8,Cliente 0008,Ribeirão Preto,SP,2025-10-15
+9,Cliente 0009,Campinas,SP,2025-11-29
+10,Cliente 0010,Limeira,SP,2025-08-03
+11,Cliente 0011,Sorocaba,SP,2025-10-29
+12,Cliente 0012,Sorocaba,SP,2025-01-04
+13,Cliente 0013,Americana,SP,2025-03-23
+14,Cliente 0014,Limeira,SP,2025-06-24
+15,Cliente 0015,Sorocaba,SP,2025-04-21
+16,Cliente 0016,São Carlos,SP,2025-06-22
+17,Cliente 0017,Campinas,SP,2025-07-14
+18,Cliente 0018,Campinas,SP,2025-06-26
+19,Cliente 0019,Ribeirão Preto,SP,2025-01-23
+20,Cliente 0020,Limeira,SP,2025-10-02
+21,Cliente 0021,Campinas,SP,2025-07-13
+22,Cliente 0022,Campinas,SP,2025-05-31
+23,Cliente 0023,Indaiatuba,SP,2025-11-13
+24,Cliente 0024,Valinhos,SP,2025-07-05
+25,Cliente 0025,Ribeirão Preto,SP,2025-12-27
+26,Cliente 0026,Campinas,SP,2025-12-05
+27,Cliente 0027,Sorocaba,SP,2025-05-29
+28,Cliente 0028,São Carlos,SP,2025-04-30
+29,Cliente 0029,Indaiatuba,SP,2025-07-14
+30,Cliente 0030,Sorocaba,SP,2025-11-22
+31,Cliente 0031,Indaiatuba,SP,2025-03-25
+32,Cliente 0032,Jundiaí,SP,2025-04-18
+33,Cliente 0033,Santos,SP,2025-12-26
+34,Cliente 0034,São Carlos,SP,2025-11-28
+35,Cliente 0035,Campinas,SP,2025-11-22
+36,Cliente 0036,Campinas,SP,2025-05-06
+37,Cliente 0037,Campinas,SP,2025-07-14
+38,Cliente 0038,Sorocaba,SP,2025-11-24
+39,Cliente 0039,Santos,SP,2025-04-23
+40,Cliente 0040,Santos,SP,2025-01-29
+41,Cliente 0041,Sorocaba,SP,2025-01-17
+42,Cliente 0042,Americana,SP,2025-07-25
+43,Cliente 0043,Sorocaba,SP,2025-04-19
+44,Cliente 0044,Valinhos,SP,2025-10-18
+45,Cliente 0045,Indaiatuba,SP,2025-06-11
+46,Cliente 0046,Sorocaba,SP,2025-09-13
+47,Cliente 0047,Jundiaí,SP,2025-11-26
+48,Cliente 0048,Piracicaba,SP,2025-05-16
+49,Cliente 0049,Campinas,SP,2025-10-15
+50,Cliente 0050,Ribeirão Preto,SP,2025-10-27
+51,Cliente 0051,Piracicaba,SP,2025-10-26
+52,Cliente 0052,Jundiaí,SP,2025-04-23
+53,Cliente 0053,São Carlos,SP,2025-03-12
+54,Cliente 0054,Piracicaba,SP,2025-02-16
+55,Cliente 0055,Limeira,SP,2025-02-26
+56,Cliente 0056,Campinas,SP,2025-03-23
+57,Cliente 0057,Americana,SP,2025-08-05
+58,Cliente 0058,Ribeirão Preto,SP,2025-07-17
+59,Cliente 0059,Jundiaí,SP,2025-08-28
+60,Cliente 0060,Ribeirão Preto,SP,2025-10-11
+61,Cliente 0061,Indaiatuba,SP,2025-01-06
+62,Cliente 0062,Santos,SP,2025-02-28
+63,Cliente 0063,Santos,SP,2025-10-02
+64,Cliente 0064,Limeira,SP,2025-11-25
+65,Cliente 0065,Jundiaí,SP,2025-05-31
+66,Cliente 0066,Piracicaba,SP,2025-08-21
+67,Cliente 0067,Campinas,SP,2025-05-15
+68,Cliente 0068,São Carlos,SP,2025-04-02
+69,Cliente 0069,Piracicaba,SP,2025-02-24
+70,Cliente 0070,Indaiatuba,SP,2025-06-02
+71,Cliente 0071,Indaiatuba,SP,2025-09-17
+72,Cliente 0072,Santos,SP,2025-03-20
+73,Cliente 0073,Jundiaí,SP,2025-03-24
+74,Cliente 0074,Ribeirão Preto,SP,2025-09-29
+75,Cliente 0075,Valinhos,SP,2025-11-03
+76,Cliente 0076,Jundiaí,SP,2025-01-10
+77,Cliente 0077,Campinas,SP,2025-07-05
+78,Cliente 0078,Indaiatuba,SP,2025-06-07
+79,Cliente 0079,Sorocaba,SP,2025-05-04
+80,Cliente 0080,Indaiatuba,SP,2025-02-10
+81,Cliente 0081,Campinas,SP,2025-09-06
+82,Cliente 0082,Americana,SP,2025-09-30
+83,Cliente 0083,Americana,SP,2025-03-07
+84,Cliente 0084,Santos,SP,2025-10-09
+85,Cliente 0085,Campinas,SP,2025-09-28
+86,Cliente 0086,Indaiatuba,SP,2025-08-05
+87,Cliente 0087,São Carlos,SP,2025-10-04
+88,Cliente 0088,Limeira,SP,2025-12-20
+89,Cliente 0089,Campinas,SP,2025-06-09
+90,Cliente 0090,Jundiaí,SP,2025-12-10
+91,Cliente 0091,Santos,SP,2025-08-13
+92,Cliente 0092,Valinhos,SP,2025-08-20
+93,Cliente 0093,Campinas,SP,2025-04-26
+94,Cliente 0094,Campinas,SP,2025-01-11
+95,Cliente 0095,Ribeirão Preto,SP,2025-04-28
+96,Cliente 0096,Ribeirão Preto,SP,2025-01-04
+97,Cliente 0097,Campinas,SP,2025-11-20
+98,Cliente 0098,Campinas,SP,2025-02-04
+99,Cliente 0099,Valinhos,SP,2025-06-19
+100,Cliente 0100,Campinas,SP,2025-05-02
+101,Cliente 0101,Sorocaba,SP,2025-09-06
+102,Cliente 0102,Sorocaba,SP,2025-03-09
+103,Cliente 0103,Limeira,SP,2025-10-20
+104,Cliente 0104,Ribeirão Preto,SP,2025-05-05
+105,Cliente 0105,Americana,SP,2025-07-28
+106,Cliente 0106,Campinas,SP,2025-02-19
+107,Cliente 0107,Santos,SP,2025-07-01
+108,Cliente 0108,Piracicaba,SP,2025-08-28
+109,Cliente 0109,Indaiatuba,SP,2025-01-28
+110,Cliente 0110,Santos,SP,2025-11-27
+111,Cliente 0111,Campinas,SP,2025-07-26
+112,Cliente 0112,Limeira,SP,2025-02-25
+113,Cliente 0113,Sorocaba,SP,2025-04-08
+114,Cliente 0114,Ribeirão Preto,SP,2025-03-13
+115,Cliente 0115,Piracicaba,SP,2025-05-23
+116,Cliente 0116,Piracicaba,SP,2025-02-08
+117,Cliente 0117,Piracicaba,SP,2025-10-09
+118,Cliente 0118,Campinas,SP,2025-11-30
+119,Cliente 0119,São Carlos,SP,2025-01-08
+120,Cliente 0120,São Carlos,SP,2025-05-02
+121,Cliente 0121,Campinas,SP,2025-09-06
+122,Cliente 0122,Piracicaba,SP,2025-07-25
+123,Cliente 0123,Valinhos,SP,2025-03-26
+124,Cliente 0124,Jundiaí,SP,2025-07-19
+125,Cliente 0125,Sorocaba,SP,2025-08-21
+126,Cliente 0126,Sorocaba,SP,2025-12-23
+127,Cliente 0127,São Carlos,SP,2025-10-12
+128,Cliente 0128,Santos,SP,2025-09-07
+129,Cliente 0129,Campinas,SP,2025-06-01
+130,Cliente 0130,Sorocaba,SP,2025-01-30
+131,Cliente 0131,Ribeirão Preto,SP,2025-10-05
+132,Cliente 0132,Campinas,SP,2025-06-10
+133,Cliente 0133,Campinas,SP,2025-10-27
+134,Cliente 0134,Piracicaba,SP,2025-09-29
+135,Cliente 0135,Campinas,SP,2025-09-18
+136,Cliente 0136,Campinas,SP,2025-04-06
+137,Cliente 0137,Campinas,SP,2025-02-04
+138,Cliente 0138,Santos,SP,2025-05-01
+139,Cliente 0139,Jundiaí,SP,2025-10-19
+140,Cliente 0140,Sorocaba,SP,2025-11-01
+141,Cliente 0141,Campinas,SP,2025-02-11
+142,Cliente 0142,Jundiaí,SP,2025-10-26
+143,Cliente 0143,Ribeirão Preto,SP,2025-06-11
+144,Cliente 0144,São Carlos,SP,2025-04-15
+145,Cliente 0145,Santos,SP,2025-06-10
+146,Cliente 0146,Sorocaba,SP,2025-07-22
+147,Cliente 0147,Campinas,SP,2025-11-27
+148,Cliente 0148,Sorocaba,SP,2025-06-11
+149,Cliente 0149,Valinhos,SP,2025-02-07
+150,Cliente 0150,Campinas,SP,2025-11-15
+151,Cliente 0151,São Carlos,SP,2025-02-21
+152,Cliente 0152,Campinas,SP,2025-04-20
+153,Cliente 0153,Piracicaba,SP,2025-03-09
+154,Cliente 0154,São Carlos,SP,2025-02-05
+155,Cliente 0155,Valinhos,SP,2025-07-09
+156,Cliente 0156,Sorocaba,SP,2025-08-13
+157,Cliente 0157,Indaiatuba,SP,2025-12-27
+158,Cliente 0158,Sorocaba,SP,2025-12-01
+159,Cliente 0159,Ribeirão Preto,SP,2025-12-08
+160,Cliente 0160,Americana,SP,2025-06-03
+161,Cliente 0161,São Carlos,SP,2025-02-23
+162,Cliente 0162,São Carlos,SP,2025-03-10
+163,Cliente 0163,Sorocaba,SP,2025-02-24
+164,Cliente 0164,Limeira,SP,2025-03-21
+165,Cliente 0165,Sorocaba,SP,2025-11-06
+166,Cliente 0166,Sorocaba,SP,2025-06-25
+167,Cliente 0167,Sorocaba,SP,2025-11-21
+168,Cliente 0168,Indaiatuba,SP,2025-09-16
+169,Cliente 0169,Piracicaba,SP,2025-01-27
+170,Cliente 0170,Campinas,SP,2025-08-05
+171,Cliente 0171,Indaiatuba,SP,2025-01-23
+172,Cliente 0172,Campinas,SP,2025-03-08
+173,Cliente 0173,Santos,SP,2025-05-15
+174,Cliente 0174,Campinas,SP,2025-08-15
+175,Cliente 0175,Ribeirão Preto,SP,2025-08-07
+176,Cliente 0176,Ribeirão Preto,SP,2025-02-27
+177,Cliente 0177,Campinas,SP,2025-12-20
+178,Cliente 0178,Valinhos,SP,2025-10-07
+179,Cliente 0179,Campinas,SP,2025-07-09
+180,Cliente 0180,Ribeirão Preto,SP,2025-03-17
+181,Cliente 0181,Piracicaba,SP,2025-01-22
+182,Cliente 0182,Sorocaba,SP,2025-01-21
+183,Cliente 0183,Valinhos,SP,2025-04-18
+184,Cliente 0184,Santos,SP,2025-12-08
+185,Cliente 0185,Campinas,SP,2025-10-14
+186,Cliente 0186,Valinhos,SP,2025-07-28
+187,Cliente 0187,São Carlos,SP,2025-03-21
+188,Cliente 0188,Valinhos,SP,2025-05-02
+189,Cliente 0189,Indaiatuba,SP,2025-04-01
+190,Cliente 0190,Valinhos,SP,2025-01-13
+191,Cliente 0191,Campinas,SP,2025-06-20
+192,Cliente 0192,Americana,SP,2025-07-30
+193,Cliente 0193,Americana,SP,2025-05-08
+194,Cliente 0194,Sorocaba,SP,2025-12-26
+195,Cliente 0195,Campinas,SP,2025-01-20
+196,Cliente 0196,Indaiatuba,SP,2025-04-24
+197,Cliente 0197,Campinas,SP,2025-08-24
+198,Cliente 0198,Jundiaí,SP,2025-04-27
+199,Cliente 0199,Sorocaba,SP,2025-12-04
+200,Cliente 0200,Campinas,SP,2025-06-18
+201,Cliente 0201,Sorocaba,SP,2025-02-05
+202,Cliente 0202,São Carlos,SP,2025-05-23
+203,Cliente 0203,Jundiaí,SP,2025-09-18
+204,Cliente 0204,Jundiaí,SP,2025-10-02
+205,Cliente 0205,Jundiaí,SP,2025-01-15
+206,Cliente 0206,Campinas,SP,2025-05-14
+207,Cliente 0207,Campinas,SP,2025-05-16
+208,Cliente 0208,Campinas,SP,2025-11-02
+209,Cliente 0209,Piracicaba,SP,2025-06-10
+210,Cliente 0210,Piracicaba,SP,2025-09-19
+211,Cliente 0211,Campinas,SP,2025-10-23
+212,Cliente 0212,Campinas,SP,2025-01-23
+213,Cliente 0213,Limeira,SP,2025-01-01
+214,Cliente 0214,Ribeirão Preto,SP,2025-10-03
+215,Cliente 0215,Santos,SP,2025-12-10
+216,Cliente 0216,Campinas,SP,2025-08-09
+217,Cliente 0217,Campinas,SP,2025-12-07
+218,Cliente 0218,Valinhos,SP,2025-11-16
+219,Cliente 0219,Sorocaba,SP,2025-03-05
+220,Cliente 0220,Limeira,SP,2025-06-03
+221,Cliente 0221,Piracicaba,SP,2025-12-08
+222,Cliente 0222,Jundiaí,SP,2025-07-26
+223,Cliente 0223,Limeira,SP,2025-10-11
+224,Cliente 0224,Campinas,SP,2025-08-04
+225,Cliente 0225,Santos,SP,2025-07-14
+226,Cliente 0226,Santos,SP,2025-03-31
+227,Cliente 0227,Santos,SP,2025-06-04
+228,Cliente 0228,Jundiaí,SP,2025-01-01
+229,Cliente 0229,Sorocaba,SP,2025-04-18
+230,Cliente 0230,Piracicaba,SP,2025-10-24
+231,Cliente 0231,Santos,SP,2025-06-14
+232,Cliente 0232,Piracicaba,SP,2025-08-15
+233,Cliente 0233,Santos,SP,2025-09-19
+234,Cliente 0234,Piracicaba,SP,2025-03-28
+235,Cliente 0235,Santos,SP,2025-05-26
+236,Cliente 0236,Ribeirão Preto,SP,2025-11-21
+237,Cliente 0237,Santos,SP,2025-02-17
+238,Cliente 0238,Indaiatuba,SP,2025-05-01
+239,Cliente 0239,Santos,SP,2025-04-26
+240,Cliente 0240,Americana,SP,2025-03-17
+241,Cliente 0241,Campinas,SP,2025-05-06
+242,Cliente 0242,São Carlos,SP,2025-11-09
+243,Cliente 0243,Indaiatuba,SP,2025-02-07
+244,Cliente 0244,Piracicaba,SP,2025-11-19
+245,Cliente 0245,Ribeirão Preto,SP,2025-12-23
+246,Cliente 0246,Jundiaí,SP,2025-07-24
+247,Cliente 0247,Sorocaba,SP,2025-12-02
+248,Cliente 0248,Santos,SP,2025-02-24
+249,Cliente 0249,Americana,SP,2025-04-23
+250,Cliente 0250,Campinas,SP,2025-12-23
+251,Cliente 0251,Ribeirão Preto,SP,2025-01-26
+252,Cliente 0252,Ribeirão Preto,SP,2025-03-04
+253,Cliente 0253,Piracicaba,SP,2025-08-26
+254,Cliente 0254,Santos,SP,2025-10-14
+255,Cliente 0255,Ribeirão Preto,SP,2025-08-15
+256,Cliente 0256,Santos,SP,2025-09-16
+257,Cliente 0257,Piracicaba,SP,2025-10-08
+258,Cliente 0258,Piracicaba,SP,2025-03-23
+259,Cliente 0259,Limeira,SP,2025-09-01
+260,Cliente 0260,Piracicaba,SP,2025-05-07
+261,Cliente 0261,Indaiatuba,SP,2025-05-22
+262,Cliente 0262,Americana,SP,2025-09-24
+263,Cliente 0263,Piracicaba,SP,2025-05-03
+264,Cliente 0264,Sorocaba,SP,2025-02-09
+265,Cliente 0265,Limeira,SP,2025-05-01
+266,Cliente 0266,Sorocaba,SP,2025-06-13
+267,Cliente 0267,Valinhos,SP,2025-02-11
+268,Cliente 0268,Campinas,SP,2025-04-29
+269,Cliente 0269,Jundiaí,SP,2025-03-20
+270,Cliente 0270,Limeira,SP,2025-02-02
+271,Cliente 0271,Jundiaí,SP,2025-06-19
+272,Cliente 0272,Ribeirão Preto,SP,2025-08-01
+273,Cliente 0273,Campinas,SP,2025-08-04
+274,Cliente 0274,Jundiaí,SP,2025-10-27
+275,Cliente 0275,São Carlos,SP,2025-01-11
+276,Cliente 0276,Indaiatuba,SP,2025-10-22
+277,Cliente 0277,Jundiaí,SP,2025-01-04
+278,Cliente 0278,São Carlos,SP,2025-06-02
+279,Cliente 0279,Limeira,SP,2025-08-03
+280,Cliente 0280,Ribeirão Preto,SP,2025-10-07
+281,Cliente 0281,Americana,SP,2025-04-23
+282,Cliente 0282,Piracicaba,SP,2025-05-20
+283,Cliente 0283,Piracicaba,SP,2025-01-15
+284,Cliente 0284,Jundiaí,SP,2025-12-09
+285,Cliente 0285,Santos,SP,2025-07-27
+286,Cliente 0286,Limeira,SP,2025-08-28
+287,Cliente 0287,Valinhos,SP,2025-11-15
+288,Cliente 0288,Ribeirão Preto,SP,2025-07-21
+289,Cliente 0289,Ribeirão Preto,SP,2025-12-06
+290,Cliente 0290,Campinas,SP,2025-11-26
+291,Cliente 0291,Piracicaba,SP,2025-08-25
+292,Cliente 0292,Campinas,SP,2025-05-14
+293,Cliente 0293,Jundiaí,SP,2025-04-19
+294,Cliente 0294,Piracicaba,SP,2025-06-22
+295,Cliente 0295,Americana,SP,2025-07-14
+296,Cliente 0296,Sorocaba,SP,2025-08-04
+297,Cliente 0297,Sorocaba,SP,2025-02-11
+298,Cliente 0298,Bauru,SP,2025-12-15
+299,Cliente 0299,Bauru,SP,2025-12-15
+300,Cliente 0300,Bauru,SP,2025-12-15

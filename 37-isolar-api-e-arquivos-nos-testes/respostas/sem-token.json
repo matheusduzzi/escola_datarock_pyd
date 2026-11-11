@@ -1,0 +1,7 @@
+{
+ "chamada": "/v1/resultados?status=DSQ&pagina=1&por_pagina=3",
+ "codigo": 401,
+ "corpo": {
+  "erro": "token_ausente_ou_invalido"
+ }
+}

@@ -1,0 +1,5 @@
+# Testado com Python 3.9.6 e pandas 2.3.3.
+# O python-dotenv lê o arquivo .env. A versão 1.2.1 é a última que aceita Python 3.9;
+# com Python 3.10 ou mais novo, o pip escolhe a versão certa sozinho.
+pandas
+python-dotenv

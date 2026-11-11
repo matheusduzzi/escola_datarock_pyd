@@ -1,0 +1,57 @@
+{
+ "chamada": "/v1/resultados?status=DSQ&pagina=2&por_pagina=3",
+ "codigo": 200,
+ "corpo": {
+  "pagina": 2,
+  "por_pagina": 3,
+  "total": 7,
+  "total_paginas": 3,
+  "itens": [
+   {
+    "edicao": 2025,
+    "id_inscricao": "2025-0043",
+    "numero_peito": 143,
+    "status": "DSQ",
+    "parciais": {
+     "natacao": "0:32:02",
+     "t1": "0:07:28",
+     "ciclismo": "5:36:44",
+     "t2": "0:05:51",
+     "corrida": "4:44:01"
+    },
+    "tempo_oficial": null,
+    "motivo": "vácuo no ciclismo"
+   },
+   {
+    "edicao": 2025,
+    "id_inscricao": "2025-0104",
+    "numero_peito": 204,
+    "status": "DSQ",
+    "parciais": {
+     "natacao": "0:29:13",
+     "t1": "0:05:35",
+     "ciclismo": "5:28:35",
+     "t2": "0:07:34",
+     "corrida": "4:03:43"
+    },
+    "tempo_oficial": null,
+    "motivo": "descarte fora da área"
+   },
+   {
+    "edicao": 2025,
+    "id_inscricao": "2025-0132",
+    "numero_peito": 232,
+    "status": "DSQ",
+    "parciais": {
+     "natacao": "0:29:43",
+     "t1": "0:08:05",
+     "ciclismo": "5:45:00",
+     "t2": "0:04:09",
+     "corrida": "4:49:02"
+    },
+    "tempo_oficial": null,
+    "motivo": "descarte fora da área"
+   }
+  ]
+ }
+}

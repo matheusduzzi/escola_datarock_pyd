@@ -1,0 +1,3 @@
+# Diagnóstico e base do kit. Rodado com Python 3.9.6 e pandas 2.3.3 (numpy 2.0.2).
+# As versões do projeto são fixadas nas aulas 38. Dependências e ambientes e 39. Reproduzir em ambiente limpo.
+pandas

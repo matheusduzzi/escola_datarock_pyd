@@ -1,0 +1,7 @@
+id_pedido,id_cliente,id_produto,data_pedido,quantidade,valor,status
+79,129,32,2026-06-05,3,1028.88,entregue
+87,216,15,2026-05-23,3,275.25,entregue
+90,62,25,2026-06-22,3,2302.53,entregue
+152,239,21,2026-06-11,1,84.42,cancelado
+472,216,3,2026-05-10,4,1007.0,entregue
+604,62,39,2026-05-04,2,390.1,entregue

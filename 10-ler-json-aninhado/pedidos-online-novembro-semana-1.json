@@ -1,0 +1,1310 @@
+[
+  {
+    "id_pedido": "005298",
+    "data_pedido": "2026-11-01T02:26:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 274,
+      "cidade": "Jundiaí"
+    },
+    "itens": [
+      {
+        "id_produto": 28,
+        "quantidade": 2,
+        "preco_unitario": 394.11
+      }
+    ],
+    "cupom": {
+      "codigo": "BEMVINDO10",
+      "desconto": 78.82
+    },
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 709.4
+  },
+  {
+    "id_pedido": "005299",
+    "data_pedido": "2026-11-01T20:32:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 262,
+      "cidade": "Americana"
+    },
+    "itens": [
+      {
+        "id_produto": 10,
+        "quantidade": 1,
+        "preco_unitario": 46.34
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 32.9
+    },
+    "valor_total": 79.24
+  },
+  {
+    "id_pedido": "005300",
+    "data_pedido": "2026-11-01T00:33:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 40,
+      "cidade": "Santos"
+    },
+    "itens": [
+      {
+        "id_produto": 10,
+        "quantidade": 3,
+        "preco_unitario": 46.34
+      },
+      {
+        "id_produto": 33,
+        "quantidade": 1,
+        "preco_unitario": 157.72
+      }
+    ],
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 296.74
+  },
+  {
+    "id_pedido": "005301",
+    "data_pedido": "2026-11-01T06:27:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 14,
+      "cidade": "Limeira"
+    },
+    "itens": [
+      {
+        "id_produto": 2,
+        "quantidade": 1,
+        "preco_unitario": 287.62
+      },
+      {
+        "id_produto": 5,
+        "quantidade": 2,
+        "preco_unitario": 297.82
+      },
+      {
+        "id_produto": 35,
+        "quantidade": 1,
+        "preco_unitario": 256.68
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 1159.84
+  },
+  {
+    "id_pedido": "005302",
+    "data_pedido": "2026-11-01T07:43:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 33,
+      "cidade": "Santos"
+    },
+    "itens": [
+      {
+        "id_produto": 34,
+        "quantidade": 2,
+        "preco_unitario": 110.27
+      }
+    ],
+    "cupom": null,
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 245.44
+  },
+  {
+    "id_pedido": "005303",
+    "data_pedido": "2026-11-01T21:30:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 46,
+      "cidade": "Sorocaba"
+    },
+    "itens": [
+      {
+        "id_produto": 24,
+        "quantidade": 1,
+        "preco_unitario": 93.84
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 32.9
+    },
+    "valor_total": 126.74
+  },
+  {
+    "id_pedido": "005304",
+    "data_pedido": "2026-11-02T00:06:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 142,
+      "cidade": "Jundiaí"
+    },
+    "itens": [
+      {
+        "id_produto": 8,
+        "quantidade": 3,
+        "preco_unitario": 266.46
+      },
+      {
+        "id_produto": 22,
+        "quantidade": 2,
+        "preco_unitario": 77.13
+      }
+    ],
+    "cupom": {
+      "codigo": "BEMVINDO10",
+      "desconto": 95.36
+    },
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 858.28
+  },
+  {
+    "id_pedido": "005305",
+    "data_pedido": "2026-11-02T11:02:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 227,
+      "cidade": "Santos"
+    },
+    "itens": [
+      {
+        "id_produto": 33,
+        "quantidade": 1,
+        "preco_unitario": 157.72
+      },
+      {
+        "id_produto": 1,
+        "quantidade": 1,
+        "preco_unitario": 102.92
+      },
+      {
+        "id_produto": 12,
+        "quantidade": 1,
+        "preco_unitario": 241.89
+      },
+      {
+        "id_produto": 6,
+        "quantidade": 2,
+        "preco_unitario": 320.75
+      }
+    ],
+    "cupom": {
+      "codigo": "VOLTA15",
+      "desconto": 171.6
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 992.33
+  },
+  {
+    "id_pedido": "005306",
+    "data_pedido": "2026-11-02T08:40:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 110,
+      "cidade": "Santos"
+    },
+    "itens": [
+      {
+        "id_produto": 21,
+        "quantidade": 1,
+        "preco_unitario": 84.42
+      },
+      {
+        "id_produto": 40,
+        "quantidade": 1,
+        "preco_unitario": 250.67
+      },
+      {
+        "id_produto": 35,
+        "quantidade": 1,
+        "preco_unitario": 256.68
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 611.67
+  },
+  {
+    "id_pedido": "005307",
+    "data_pedido": "2026-11-02T13:47:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 97,
+      "cidade": "Campinas"
+    },
+    "itens": [
+      {
+        "id_produto": 31,
+        "quantidade": 1,
+        "preco_unitario": 394.11
+      }
+    ],
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 394.11
+  },
+  {
+    "id_pedido": "005308",
+    "data_pedido": "2026-11-02T07:37:00-03:00",
+    "status": "enviado",
+    "cliente": {
+      "id_cliente": 73,
+      "cidade": "Jundiaí"
+    },
+    "itens": [
+      {
+        "id_produto": 16,
+        "quantidade": 2,
+        "preco_unitario": 175.79
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 32.9
+    },
+    "valor_total": 384.48
+  },
+  {
+    "id_pedido": "005309",
+    "data_pedido": "2026-11-02T09:35:00-03:00",
+    "status": "enviado",
+    "cliente": {
+      "id_cliente": 300,
+      "cidade": "Bauru"
+    },
+    "itens": [
+      {
+        "id_produto": 9,
+        "quantidade": 1,
+        "preco_unitario": 192.02
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 32.9
+    },
+    "valor_total": 224.92
+  },
+  {
+    "id_pedido": "005310",
+    "data_pedido": "2026-11-02T10:54:00-03:00",
+    "status": "enviado",
+    "cliente": {
+      "id_cliente": 7,
+      "cidade": "Sorocaba"
+    },
+    "itens": [
+      {
+        "id_produto": 31,
+        "quantidade": 1,
+        "preco_unitario": 394.11
+      },
+      {
+        "id_produto": 5,
+        "quantidade": 2,
+        "preco_unitario": 297.82
+      }
+    ],
+    "cupom": {
+      "codigo": "BEMVINDO10",
+      "desconto": 98.98
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 915.67
+  },
+  {
+    "id_pedido": "005311",
+    "data_pedido": "2026-11-02T02:05:00-03:00",
+    "status": "cancelado",
+    "cliente": {
+      "id_cliente": 194,
+      "cidade": "Sorocaba"
+    },
+    "itens": [],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 0.0
+  },
+  {
+    "id_pedido": "005312",
+    "data_pedido": "2026-11-03T16:41:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 236,
+      "cidade": "Ribeirão Preto"
+    },
+    "itens": [
+      {
+        "id_produto": 26,
+        "quantidade": 2,
+        "preco_unitario": 546.36
+      },
+      {
+        "id_produto": 12,
+        "quantidade": 3,
+        "preco_unitario": 241.89
+      },
+      {
+        "id_produto": 34,
+        "quantidade": 1,
+        "preco_unitario": 110.27
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 1953.56
+  },
+  {
+    "id_pedido": "005313",
+    "data_pedido": "2026-11-03T14:45:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 48,
+      "cidade": "Piracicaba"
+    },
+    "itens": [
+      {
+        "id_produto": 28,
+        "quantidade": 1,
+        "preco_unitario": 394.11
+      },
+      {
+        "id_produto": 26,
+        "quantidade": 1,
+        "preco_unitario": 546.36
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 960.37
+  },
+  {
+    "id_pedido": "005314",
+    "data_pedido": "2026-11-03T21:59:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 273,
+      "cidade": "Campinas"
+    },
+    "itens": [
+      {
+        "id_produto": 27,
+        "quantidade": 3,
+        "preco_unitario": 122.13
+      },
+      {
+        "id_produto": 14,
+        "quantidade": 1,
+        "preco_unitario": 25.91
+      },
+      {
+        "id_produto": 35,
+        "quantidade": 2,
+        "preco_unitario": 256.68
+      },
+      {
+        "id_produto": 16,
+        "quantidade": 1,
+        "preco_unitario": 175.79
+      }
+    ],
+    "cupom": {
+      "codigo": "VOLTA15",
+      "desconto": 162.22
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 944.13
+  },
+  {
+    "id_pedido": "005315",
+    "data_pedido": "2026-11-03T06:26:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 265,
+      "cidade": "Limeira"
+    },
+    "itens": [
+      {
+        "id_produto": 26,
+        "quantidade": 2,
+        "preco_unitario": 546.36
+      },
+      {
+        "id_produto": 6,
+        "quantidade": 1,
+        "preco_unitario": 320.75
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 32.9
+    },
+    "valor_total": 1446.37
+  },
+  {
+    "id_pedido": "005316",
+    "data_pedido": "2026-11-03T01:59:00-03:00",
+    "status": "pago",
+    "cliente": {
+      "id_cliente": 79,
+      "cidade": "Sorocaba"
+    },
+    "itens": [
+      {
+        "id_produto": 26,
+        "quantidade": 1,
+        "preco_unitario": 546.36
+      },
+      {
+        "id_produto": 2,
+        "quantidade": 1,
+        "preco_unitario": 287.62
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 32.9
+    },
+    "valor_total": 866.88
+  },
+  {
+    "id_pedido": "005317",
+    "data_pedido": "2026-11-03T22:36:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 114,
+      "cidade": "Ribeirão Preto"
+    },
+    "itens": [
+      {
+        "id_produto": 13,
+        "quantidade": 1,
+        "preco_unitario": 44.86
+      }
+    ],
+    "cupom": null,
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 69.76
+  },
+  {
+    "id_pedido": "005318",
+    "data_pedido": "2026-11-03T06:19:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 52,
+      "cidade": "Jundiaí"
+    },
+    "itens": [
+      {
+        "id_produto": 4,
+        "quantidade": 2,
+        "preco_unitario": 134.11
+      },
+      {
+        "id_produto": 16,
+        "quantidade": 1,
+        "preco_unitario": 175.79
+      },
+      {
+        "id_produto": 39,
+        "quantidade": 2,
+        "preco_unitario": 195.05
+      },
+      {
+        "id_produto": 40,
+        "quantidade": 2,
+        "preco_unitario": 250.67
+      }
+    ],
+    "cupom": null,
+    "entrega": {
+      "tipo": "correio",
+      "frete": 32.9
+    },
+    "valor_total": 1368.35
+  },
+  {
+    "id_pedido": "005319",
+    "data_pedido": "2026-11-04T17:38:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 130,
+      "cidade": "Sorocaba"
+    },
+    "itens": [
+      {
+        "id_produto": 39,
+        "quantidade": 1,
+        "preco_unitario": 195.05
+      },
+      {
+        "id_produto": 13,
+        "quantidade": 1,
+        "preco_unitario": 44.86
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 264.81
+  },
+  {
+    "id_pedido": "005320",
+    "data_pedido": "2026-11-04T01:51:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 160,
+      "cidade": "Americana"
+    },
+    "itens": [
+      {
+        "id_produto": 38,
+        "quantidade": 2,
+        "preco_unitario": 288.71
+      },
+      {
+        "id_produto": 27,
+        "quantidade": 3,
+        "preco_unitario": 122.13
+      }
+    ],
+    "cupom": null,
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 968.71
+  },
+  {
+    "id_pedido": "005321",
+    "data_pedido": "2026-11-04T09:54:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 252,
+      "cidade": "Ribeirão Preto"
+    },
+    "itens": [
+      {
+        "id_produto": 2,
+        "quantidade": 2,
+        "preco_unitario": 287.62
+      }
+    ],
+    "cupom": {
+      "codigo": "BEMVINDO10",
+      "desconto": 57.52
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 542.62
+  },
+  {
+    "id_pedido": "005322",
+    "data_pedido": "2026-11-04T01:38:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 137,
+      "cidade": "Campinas"
+    },
+    "itens": [
+      {
+        "id_produto": 38,
+        "quantidade": 1,
+        "preco_unitario": 288.71
+      },
+      {
+        "id_produto": 6,
+        "quantidade": 1,
+        "preco_unitario": 320.75
+      },
+      {
+        "id_produto": 13,
+        "quantidade": 2,
+        "preco_unitario": 44.86
+      }
+    ],
+    "cupom": {
+      "codigo": "VOLTA15",
+      "desconto": 104.88
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 32.9
+    },
+    "valor_total": 627.2
+  },
+  {
+    "id_pedido": "005323",
+    "data_pedido": "2026-11-04T18:47:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 232,
+      "cidade": "Piracicaba"
+    },
+    "itens": [
+      {
+        "id_produto": 7,
+        "quantidade": 1,
+        "preco_unitario": 117.05
+      }
+    ],
+    "cupom": null,
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 136.95
+  },
+  {
+    "id_pedido": "005324",
+    "data_pedido": "2026-11-04T08:49:00-03:00",
+    "status": "pago",
+    "cliente": {
+      "id_cliente": 36,
+      "cidade": "Campinas"
+    },
+    "itens": [
+      {
+        "id_produto": 20,
+        "quantidade": 1,
+        "preco_unitario": 13.74
+      }
+    ],
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 13.74
+  },
+  {
+    "id_pedido": "005325",
+    "data_pedido": "2026-11-04T15:04:00-03:00",
+    "status": "cancelado",
+    "cliente": {
+      "id_cliente": 20,
+      "cidade": "Limeira"
+    },
+    "itens": [],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 0.0
+  },
+  {
+    "id_pedido": "005326",
+    "data_pedido": "2026-11-05T15:57:00-03:00",
+    "status": "cancelado",
+    "cliente": {
+      "id_cliente": 286,
+      "cidade": "Limeira"
+    },
+    "itens": [],
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 0.0
+  },
+  {
+    "id_pedido": "005327",
+    "data_pedido": "2026-11-05T15:05:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 186,
+      "cidade": "Valinhos"
+    },
+    "itens": [
+      {
+        "id_produto": 2,
+        "quantidade": 1,
+        "preco_unitario": 287.62
+      },
+      {
+        "id_produto": 1,
+        "quantidade": 1,
+        "preco_unitario": 102.92
+      }
+    ],
+    "cupom": null,
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 390.54
+  },
+  {
+    "id_pedido": "005328",
+    "data_pedido": "2026-11-05T08:33:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 111,
+      "cidade": "Campinas"
+    },
+    "itens": [
+      {
+        "id_produto": 8,
+        "quantidade": 2,
+        "preco_unitario": 266.46
+      },
+      {
+        "id_produto": 11,
+        "quantidade": 1,
+        "preco_unitario": 208.44
+      },
+      {
+        "id_produto": 8,
+        "quantidade": 1,
+        "preco_unitario": 266.46
+      }
+    ],
+    "cupom": null,
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 1007.82
+  },
+  {
+    "id_pedido": "005329",
+    "data_pedido": "2026-11-05T10:22:00-03:00",
+    "status": "enviado",
+    "cliente": {
+      "id_cliente": 267,
+      "cidade": "Valinhos"
+    },
+    "itens": [
+      {
+        "id_produto": 24,
+        "quantidade": 3,
+        "preco_unitario": 93.84
+      }
+    ],
+    "cupom": {
+      "codigo": "BEMVINDO10",
+      "desconto": 28.15
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 273.27
+  },
+  {
+    "id_pedido": "005330",
+    "data_pedido": "2026-11-05T06:31:00-03:00",
+    "status": "enviado",
+    "cliente": {
+      "id_cliente": 68,
+      "cidade": "São Carlos"
+    },
+    "itens": [
+      {
+        "id_produto": 7,
+        "quantidade": 1,
+        "preco_unitario": 117.05
+      },
+      {
+        "id_produto": 39,
+        "quantidade": 1,
+        "preco_unitario": 195.05
+      },
+      {
+        "id_produto": 28,
+        "quantidade": 1,
+        "preco_unitario": 394.11
+      },
+      {
+        "id_produto": 9,
+        "quantidade": 2,
+        "preco_unitario": 192.02
+      }
+    ],
+    "cupom": {
+      "codigo": "FRETEGRATIS",
+      "desconto": 19.9
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 1090.25
+  },
+  {
+    "id_pedido": "005331",
+    "data_pedido": "2026-11-05T02:35:00-03:00",
+    "status": "enviado",
+    "cliente": {
+      "id_cliente": 293,
+      "cidade": "Jundiaí"
+    },
+    "itens": [
+      {
+        "id_produto": 14,
+        "quantidade": 1,
+        "preco_unitario": 25.91
+      },
+      {
+        "id_produto": 27,
+        "quantidade": 1,
+        "preco_unitario": 122.13
+      },
+      {
+        "id_produto": 15,
+        "quantidade": 2,
+        "preco_unitario": 91.75
+      },
+      {
+        "id_produto": 38,
+        "quantidade": 1,
+        "preco_unitario": 288.71
+      }
+    ],
+    "cupom": {
+      "codigo": "BEMVINDO10",
+      "desconto": 62.03
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 578.12
+  },
+  {
+    "id_pedido": "005332",
+    "data_pedido": "2026-11-05T08:47:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 251,
+      "cidade": "Ribeirão Preto"
+    },
+    "itens": [
+      {
+        "id_produto": 15,
+        "quantidade": 2,
+        "preco_unitario": 91.75
+      }
+    ],
+    "cupom": {
+      "codigo": "FRETEGRATIS",
+      "desconto": 19.9
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 183.5
+  },
+  {
+    "id_pedido": "005333",
+    "data_pedido": "2026-11-05T00:48:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 192,
+      "cidade": "Americana"
+    },
+    "itens": [
+      {
+        "id_produto": 27,
+        "quantidade": 1,
+        "preco_unitario": 122.13
+      }
+    ],
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 122.13
+  },
+  {
+    "id_pedido": "005334",
+    "data_pedido": "2026-11-06T01:38:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 139,
+      "cidade": "Jundiaí"
+    },
+    "itens": [
+      {
+        "id_produto": 19,
+        "quantidade": 2,
+        "preco_unitario": 87.23
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 194.36
+  },
+  {
+    "id_pedido": "005335",
+    "data_pedido": "2026-11-06T10:38:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 121,
+      "cidade": "Campinas"
+    },
+    "itens": [
+      {
+        "id_produto": 30,
+        "quantidade": 1,
+        "preco_unitario": 322.28
+      },
+      {
+        "id_produto": 2,
+        "quantidade": 1,
+        "preco_unitario": 287.62
+      },
+      {
+        "id_produto": 28,
+        "quantidade": 1,
+        "preco_unitario": 394.11
+      }
+    ],
+    "cupom": null,
+    "entrega": {
+      "tipo": "correio",
+      "frete": 32.9
+    },
+    "valor_total": 1036.91
+  },
+  {
+    "id_pedido": "005336",
+    "data_pedido": "2026-11-06T07:11:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 92,
+      "cidade": "Valinhos"
+    },
+    "itens": [
+      {
+        "id_produto": 32,
+        "quantidade": 1,
+        "preco_unitario": 342.96
+      },
+      {
+        "id_produto": 3,
+        "quantidade": 1,
+        "preco_unitario": 251.75
+      },
+      {
+        "id_produto": 22,
+        "quantidade": 1,
+        "preco_unitario": 77.13
+      },
+      {
+        "id_produto": 27,
+        "quantidade": 1,
+        "preco_unitario": 122.13
+      },
+      {
+        "id_produto": 32,
+        "quantidade": 1,
+        "preco_unitario": 342.96
+      }
+    ],
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 1136.93
+  },
+  {
+    "id_pedido": "005337",
+    "data_pedido": "2026-11-06T18:01:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 82,
+      "cidade": "Americana"
+    },
+    "itens": [
+      {
+        "id_produto": 3,
+        "quantidade": 1,
+        "preco_unitario": 251.75
+      }
+    ],
+    "cupom": {
+      "codigo": "BEMVINDO10",
+      "desconto": 25.18
+    },
+    "entrega": {
+      "tipo": "retirada"
+    },
+    "valor_total": 226.57
+  },
+  {
+    "id_pedido": "005338",
+    "data_pedido": "2026-11-06T10:45:00-03:00",
+    "status": "cancelado",
+    "cliente": {
+      "id_cliente": 99,
+      "cidade": "Valinhos"
+    },
+    "itens": [],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 0.0
+  },
+  {
+    "id_pedido": "005339",
+    "data_pedido": "2026-11-06T15:21:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 92,
+      "cidade": "Valinhos"
+    },
+    "itens": [
+      {
+        "id_produto": 5,
+        "quantidade": 1,
+        "preco_unitario": 297.82
+      },
+      {
+        "id_produto": 9,
+        "quantidade": 1,
+        "preco_unitario": 192.02
+      },
+      {
+        "id_produto": 11,
+        "quantidade": 1,
+        "preco_unitario": 208.44
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 723.18
+  },
+  {
+    "id_pedido": "005340",
+    "data_pedido": "2026-11-07T12:18:00-03:00",
+    "status": "pago",
+    "cliente": {
+      "id_cliente": 224,
+      "cidade": "Campinas"
+    },
+    "itens": [
+      {
+        "id_produto": 26,
+        "quantidade": 1,
+        "preco_unitario": 546.36
+      }
+    ],
+    "cupom": {
+      "codigo": "FRETEGRATIS",
+      "desconto": 24.9
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 546.36
+  },
+  {
+    "id_pedido": "005341",
+    "data_pedido": "2026-11-07T13:00:00-03:00",
+    "status": "pago",
+    "cliente": {
+      "id_cliente": 227,
+      "cidade": "Santos"
+    },
+    "itens": [
+      {
+        "id_produto": 10,
+        "quantidade": 3,
+        "preco_unitario": 46.34
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 158.92
+  },
+  {
+    "id_pedido": "005342",
+    "data_pedido": "2026-11-07T12:43:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 58,
+      "cidade": "Ribeirão Preto"
+    },
+    "itens": [
+      {
+        "id_produto": 3,
+        "quantidade": 1,
+        "preco_unitario": 251.75
+      }
+    ],
+    "cupom": {
+      "codigo": "BEMVINDO10",
+      "desconto": 25.18
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 32.9
+    },
+    "valor_total": 259.47
+  },
+  {
+    "id_pedido": "005343",
+    "data_pedido": "2026-11-07T05:22:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 98,
+      "cidade": "Campinas"
+    },
+    "itens": [
+      {
+        "id_produto": 15,
+        "quantidade": 2,
+        "preco_unitario": 91.75
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 203.4
+  },
+  {
+    "id_pedido": "005344",
+    "data_pedido": "2026-11-07T23:23:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 250,
+      "cidade": "Campinas"
+    },
+    "itens": [
+      {
+        "id_produto": 19,
+        "quantidade": 1,
+        "preco_unitario": 87.23
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 107.13
+  },
+  {
+    "id_pedido": "005345",
+    "data_pedido": "2026-11-07T12:07:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 271,
+      "cidade": "Jundiaí"
+    },
+    "itens": [
+      {
+        "id_produto": 23,
+        "quantidade": 1,
+        "preco_unitario": 16.72
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 41.62
+  },
+  {
+    "id_pedido": "005346",
+    "data_pedido": "2026-11-07T20:49:00-03:00",
+    "status": "entregue",
+    "cliente": {
+      "id_cliente": 239,
+      "cidade": "Santos"
+    },
+    "itens": [
+      {
+        "id_produto": 14,
+        "quantidade": 1,
+        "preco_unitario": 25.91
+      },
+      {
+        "id_produto": 13,
+        "quantidade": 1,
+        "preco_unitario": 44.86
+      },
+      {
+        "id_produto": 9,
+        "quantidade": 1,
+        "preco_unitario": 192.02
+      },
+      {
+        "id_produto": 5,
+        "quantidade": 1,
+        "preco_unitario": 297.82
+      }
+    ],
+    "cupom": {
+      "codigo": "FRETEGRATIS",
+      "desconto": 24.9
+    },
+    "entrega": {
+      "tipo": "correio",
+      "frete": 24.9
+    },
+    "valor_total": 560.61
+  },
+  {
+    "id_pedido": "005347",
+    "data_pedido": "2026-11-07T23:26:00-03:00",
+    "status": "enviado",
+    "cliente": {
+      "id_cliente": 94,
+      "cidade": "Campinas"
+    },
+    "itens": [
+      {
+        "id_produto": 24,
+        "quantidade": 1,
+        "preco_unitario": 93.84
+      }
+    ],
+    "entrega": {
+      "tipo": "correio",
+      "frete": 19.9
+    },
+    "valor_total": 113.74
+  }
+]
