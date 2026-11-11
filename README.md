@@ -62,6 +62,8 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [01-escolher-python-sql-e-ambiente-de-execucao/](01-escolher-python-sql-e-ambiente-de-execucao/) | Escolher Python, SQL e ambiente de execução |
 | [02-organizar-um-projeto-executavel/](02-organizar-um-projeto-executavel/) | Organizar um projeto executável |
 | [03-mutabilidade-referencias-e-conversoes/](03-mutabilidade-referencias-e-conversoes/) | Mutabilidade, referências e conversões |
+| [04-colecoes-e-dados-aninhados/](04-colecoes-e-dados-aninhados/) | Coleções e dados aninhados |
+| [05-funcoes-escopo-e-contratos/](05-funcoes-escopo-e-contratos/) | Funções, escopo e contratos |
 | [06-refatorar-uma-analise/](06-refatorar-uma-analise/) | Refatorar uma análise |
 | [07-depurar-e-tratar-excecoes/](07-depurar-e-tratar-excecoes/) | Depurar e tratar exceções |
 | [08-formatos-e-contratos-de-entrada/](08-formatos-e-contratos-de-entrada/) | Formatos e contratos de entrada |
@@ -78,4 +80,8 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [33-interatividade-quando-ajuda/](33-interatividade-quando-ajuda/) | Interatividade quando ajuda |
 | [34-produzir-relatorio-reproduzivel/](34-produzir-relatorio-reproduzivel/) | Produzir relatório reproduzível |
 | [36-escrever-testes-de-dados-e-funcoes/](36-escrever-testes-de-dados-e-funcoes/) | Escrever testes de dados e funções |
-| [37-isolar-api-e-arquivos-nos-testes/](37-isolar-api-e-arquivos-nos-testes/) | Isolar API e arquivos nos testes |
+| [40-revisar-e-entregar-codigo/](40-revisar-e-entregar-codigo/) | Revisar e entregar código |
+| [41-triatlo-briefing-e-contrato/](41-triatlo-briefing-e-contrato/) | Triatlo: briefing e contrato |
+| [42-triatlo-integracao-e-qualidade/](42-triatlo-integracao-e-qualidade/) | Triatlo: integração e qualidade |
+| [43-triatlo-analise-e-visualizacao/](43-triatlo-analise-e-visualizacao/) | Triatlo: análise e visualização |
+| [44-triatlo-reproducao-e-defesa/](44-triatlo-reproducao-e-defesa/) | Triatlo: reprodução e defesa |

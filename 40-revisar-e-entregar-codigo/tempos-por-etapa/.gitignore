@@ -1,0 +1,6 @@
+# O ambiente é seu: apague e crie de novo quando quiser.
+.venv/
+__pycache__/
+.pytest_cache/
+# O que o programa gera: sai de novo rodando o comando.
+saida/

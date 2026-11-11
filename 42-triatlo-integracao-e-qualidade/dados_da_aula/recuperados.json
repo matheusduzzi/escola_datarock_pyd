@@ -1,0 +1,142 @@
+[
+ {
+  "edicao": 2024,
+  "id_inscricao": "2024-0126",
+  "numero_peito": 226,
+  "status": "concluiu",
+  "parciais": {
+   "natacao": "1:15:02",
+   "t1": "0:05:41",
+   "ciclismo": "6:01:30",
+   "t2": "0:04:58",
+   "corrida": "4:40:11"
+  },
+  "tempo_oficial": "12:07:22"
+ },
+ {
+  "edicao": 2024,
+  "id_inscricao": "2024-0168",
+  "numero_peito": 268,
+  "status": "DNS",
+  "parciais": {
+   "natacao": null,
+   "t1": null,
+   "ciclismo": null,
+   "t2": null,
+   "corrida": null
+  },
+  "tempo_oficial": null
+ },
+ {
+  "edicao": 2024,
+  "id_inscricao": "2024-0180",
+  "numero_peito": 280,
+  "status": "DNF",
+  "parciais": {
+   "natacao": "1:22:10",
+   "t1": "0:06:02",
+   "ciclismo": null,
+   "t2": null,
+   "corrida": null
+  },
+  "tempo_oficial": null
+ },
+ {
+  "edicao": 2025,
+  "id_inscricao": "2025-0234",
+  "numero_peito": 334,
+  "status": "concluiu",
+  "parciais": {
+   "natacao": "0:36:48",
+   "t1": "0:04:20",
+   "ciclismo": "5:58:41",
+   "t2": null,
+   "corrida": "4:51:09"
+  },
+  "tempo_oficial": "11:36:10"
+ },
+ {
+  "edicao": 2025,
+  "id_inscricao": "2025-0235",
+  "numero_peito": 335,
+  "status": "DNF",
+  "parciais": {
+   "natacao": "0:35:40",
+   "t1": "0:04:31",
+   "ciclismo": "6:20:05",
+   "t2": "0:06:10",
+   "corrida": null
+  },
+  "tempo_oficial": null
+ },
+ {
+  "edicao": 2025,
+  "id_inscricao": "2025-0235",
+  "numero_peito": 335,
+  "status": "DNF",
+  "parciais": {
+   "natacao": "0:35:40",
+   "t1": "0:04:31",
+   "ciclismo": "6:20:05",
+   "t2": "0:06:10",
+   "corrida": null
+  },
+  "tempo_oficial": null
+ },
+ {
+  "edicao": 2025,
+  "id_inscricao": "2025-0383",
+  "numero_peito": 483,
+  "status": "concluiu",
+  "parciais": {
+   "natacao": "0:31:15",
+   "t1": "0:03:58",
+   "ciclismo": "5:41:22",
+   "t2": "0:04:05",
+   "corrida": "4:12:40"
+  },
+  "tempo_oficial": "10:43:20"
+ },
+ {
+  "edicao": 2025,
+  "id_inscricao": "2025-0101",
+  "numero_peito": 201,
+  "status": "DNF",
+  "parciais": {
+   "natacao": "0:40:12",
+   "t1": "0:06:42",
+   "ciclismo": "7:19:55",
+   "t2": "0:05:33",
+   "corrida": null
+  },
+  "tempo_oficial": null
+ },
+ {
+  "edicao": 2025,
+  "id_inscricao": "2025-0200",
+  "numero_peito": 300,
+  "status": "concluiu",
+  "parciais": {
+   "natacao": "0:36:05",
+   "t1": "0:07:48",
+   "ciclismo": "6:29:11",
+   "t2": "0:03:14",
+   "corrida": "5:04:47"
+  },
+  "tempo_oficial": "12:21:05"
+ },
+ {
+  "edicao": 2025,
+  "id_inscricao": "2025-0999",
+  "numero_peito": 999,
+  "status": "concluiu",
+  "parciais": {
+   "natacao": "0:33:10",
+   "t1": "0:04:02",
+   "ciclismo": "5:50:09",
+   "t2": "0:03:51",
+   "corrida": "4:20:33"
+  },
+  "tempo_oficial": "10:51:45"
+ }
+]

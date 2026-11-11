@@ -1,0 +1,5 @@
+# Testado com Python 3.9.6 no macOS.
+# pandas 3 pede Python 3.11 e muda o comportamento: a troca é uma decisão à parte.
+pandas>=2.3,<3
+# Os gráficos do relatório (analise.py).
+matplotlib>=3.9,<4

@@ -1,0 +1,3 @@
+-r requirements.in
+# Só para quem roda os testes.
+pytest>=8.4,<9

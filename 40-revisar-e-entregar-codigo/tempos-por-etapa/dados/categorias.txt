@@ -1,0 +1,5 @@
+# Categorias da prova, na ordem em que o relatório mostra.
+Júnior
+Adulto
+Master
+Sênior
