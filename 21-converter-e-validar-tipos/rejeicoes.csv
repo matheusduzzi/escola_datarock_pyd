@@ -1,0 +1,29 @@
+id_resposta,coluna,valor_original,motivo
+74,nascimento,1971,formato desconhecido
+132,nascimento,17/13/1960,data inexistente
+141,nascimento,1996,formato desconhecido
+145,nascimento,31/02/1967,data inexistente
+148,nascimento,10/03/2026,fora da faixa
+206,nascimento,02/05/2019,fora da faixa
+234,nascimento,21/13/1999,data inexistente
+244,nascimento,30/02/2002,data inexistente
+258,nascimento,1985,formato desconhecido
+283,nascimento,21/09/2026,fora da faixa
+300,nascimento,1977,formato desconhecido
+383,nascimento,1974,formato desconhecido
+396,nascimento,31/02/1971,data inexistente
+413,nascimento,31/06/2003,data inexistente
+206,categoria,Elite,categoria desconhecida
+250,categoria,Revezamento,categoria desconhecida
+291,categoria,Revezamento,categoria desconhecida
+325,categoria,Revezamento,categoria desconhecida
+329,categoria,Elite,categoria desconhecida
+18,valor_pago,isento,não é número
+24,valor_pago,"98,00",fora da tabela de preços
+30,valor_pago,isento,não é número
+88,valor_pago,isento,não é número
+176,valor_pago,isento,não é número
+183,valor_pago,isento,não é número
+219,valor_pago,isento,não é número
+384,valor_pago,mil cento e cinquenta,não é número
+392,valor_pago,"98,00",fora da tabela de preços

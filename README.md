@@ -71,8 +71,19 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [10-ler-json-aninhado/](10-ler-json-aninhado/) | Ler JSON aninhado |
 | [11-http-e-contrato-de-api/](11-http-e-contrato-de-api/) | HTTP e contrato de API |
 | [12-consumir-uma-api-paginada/](12-consumir-uma-api-paginada/) | Consumir uma API paginada |
+| [13-tratar-falhas-de-integracao/](13-tratar-falhas-de-integracao/) | Tratar falhas de integração |
+| [14-reexecutar-sem-duplicar/](14-reexecutar-sem-duplicar/) | Reexecutar sem duplicar |
+| [15-arrays-dimensoes-e-tipos/](15-arrays-dimensoes-e-tipos/) | Arrays, dimensões e tipos |
 | [16-indexacao-e-broadcasting/](16-indexacao-e-broadcasting/) | Indexação e broadcasting |
 | [17-vetorizacao-e-custo/](17-vetorizacao-e-custo/) | Vetorização e custo |
+| [18-agregacoes-e-estabilidade-numerica/](18-agregacoes-e-estabilidade-numerica/) | Agregações e estabilidade numérica |
+| [19-medir-antes-de-otimizar/](19-medir-antes-de-otimizar/) | Medir antes de otimizar |
+| [20-indice-alinhamento-e-tipos-anulaveis/](20-indice-alinhamento-e-tipos-anulaveis/) | Índice, alinhamento e tipos anuláveis |
+| [21-converter-e-validar-tipos/](21-converter-e-validar-tipos/) | Converter e validar tipos |
+| [22-transformar-com-regras-explicitas/](22-transformar-com-regras-explicitas/) | Transformar com regras explícitas |
+| [23-juncoes-e-contratos-de-cardinalidade/](23-juncoes-e-contratos-de-cardinalidade/) | Junções e contratos de cardinalidade |
+| [24-validar-merge-e-concatenar-fontes/](24-validar-merge-e-concatenar-fontes/) | Validar merge e concatenar fontes |
+| [25-agregacoes-transform-e-metricas-de-grupo/](25-agregacoes-transform-e-metricas-de-grupo/) | Agregações, transform e métricas de grupo |
 | [27-pivot-melt-e-reconstrucao/](27-pivot-melt-e-reconstrucao/) | Pivot, melt e reconstrução |
 | [28-datas-fusos-e-series-tabulares/](28-datas-fusos-e-series-tabulares/) | Datas, fusos e séries tabulares |
 | [30-escolher-grafico-pela-pergunta/](30-escolher-grafico-pela-pergunta/) | Escolher gráfico pela pergunta |

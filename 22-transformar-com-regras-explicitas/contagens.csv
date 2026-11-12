@@ -1,0 +1,6 @@
+etapa,tipo,linhas antes,linhas depois,células mudadas,valor vazio antes,valor vazio depois,receita
+entrada,,3041,3041,0,12,12,"R$ 1.261.066,62"
+padronizar status,limpeza,3041,3041,224,12,12,"R$ 1.261.066,62"
+tirar linha repetida,limpeza,3041,3003,0,12,11,"R$ 1.250.894,63"
+só pedido entregue,regra,3003,2700,0,11,11,"R$ 1.127.501,18"
+valor vazio = preço × quantidade,imputação,2700,2700,11,11,0,"R$ 1.130.470,79"
