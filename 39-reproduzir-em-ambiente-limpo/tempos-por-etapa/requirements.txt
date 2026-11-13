@@ -1,0 +1,7 @@
+# Python 3.9.6 (darwin). Árvore travada de requirements.in, um pacote por linha, versão exata.
+numpy==2.0.2
+pandas==2.3.3
+python-dateutil==2.9.0.post0
+pytz==2026.6
+six==1.15.0
+tzdata==2026.6

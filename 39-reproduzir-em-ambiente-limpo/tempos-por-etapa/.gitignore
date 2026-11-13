@@ -1,0 +1,6 @@
+# O ambiente é seu: apague e crie de novo quando quiser.
+.venv/
+__pycache__/
+.pytest_cache/
+# Tabelas que o programa gera.
+*.csv

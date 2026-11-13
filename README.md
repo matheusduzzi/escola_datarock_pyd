@@ -84,13 +84,19 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [23-juncoes-e-contratos-de-cardinalidade/](23-juncoes-e-contratos-de-cardinalidade/) | Junções e contratos de cardinalidade |
 | [24-validar-merge-e-concatenar-fontes/](24-validar-merge-e-concatenar-fontes/) | Validar merge e concatenar fontes |
 | [25-agregacoes-transform-e-metricas-de-grupo/](25-agregacoes-transform-e-metricas-de-grupo/) | Agregações, transform e métricas de grupo |
+| [26-dados-longos-e-largos/](26-dados-longos-e-largos/) | Dados longos e largos |
 | [27-pivot-melt-e-reconstrucao/](27-pivot-melt-e-reconstrucao/) | Pivot, melt e reconstrução |
 | [28-datas-fusos-e-series-tabulares/](28-datas-fusos-e-series-tabulares/) | Datas, fusos e séries tabulares |
 | [30-escolher-grafico-pela-pergunta/](30-escolher-grafico-pela-pergunta/) | Escolher gráfico pela pergunta |
+| [31-construir-graficos-estaticos/](31-construir-graficos-estaticos/) | Construir gráficos estáticos |
 | [32-evitar-interpretacoes-enganosas/](32-evitar-interpretacoes-enganosas/) | Evitar interpretações enganosas |
 | [33-interatividade-quando-ajuda/](33-interatividade-quando-ajuda/) | Interatividade quando ajuda |
 | [34-produzir-relatorio-reproduzivel/](34-produzir-relatorio-reproduzivel/) | Produzir relatório reproduzível |
+| [35-como-testar-transformacoes/](35-como-testar-transformacoes/) | Como testar transformações |
 | [36-escrever-testes-de-dados-e-funcoes/](36-escrever-testes-de-dados-e-funcoes/) | Escrever testes de dados e funções |
+| [37-isolar-api-e-arquivos-nos-testes/](37-isolar-api-e-arquivos-nos-testes/) | Isolar API e arquivos nos testes |
+| [38-dependencias-e-ambientes/](38-dependencias-e-ambientes/) | Dependências e ambientes |
+| [39-reproduzir-em-ambiente-limpo/](39-reproduzir-em-ambiente-limpo/) | Reproduzir em ambiente limpo |
 | [40-revisar-e-entregar-codigo/](40-revisar-e-entregar-codigo/) | Revisar e entregar código |
 | [41-triatlo-briefing-e-contrato/](41-triatlo-briefing-e-contrato/) | Triatlo: briefing e contrato |
 | [42-triatlo-integracao-e-qualidade/](42-triatlo-integracao-e-qualidade/) | Triatlo: integração e qualidade |

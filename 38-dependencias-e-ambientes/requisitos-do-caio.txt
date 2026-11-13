@@ -1,0 +1,7 @@
+# O que o README do Caio manda instalar, uma linha por pacote, sem versão.
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+pytest
