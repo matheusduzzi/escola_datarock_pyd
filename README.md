@@ -87,6 +87,7 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [26-dados-longos-e-largos/](26-dados-longos-e-largos/) | Dados longos e largos |
 | [27-pivot-melt-e-reconstrucao/](27-pivot-melt-e-reconstrucao/) | Pivot, melt e reconstrução |
 | [28-datas-fusos-e-series-tabulares/](28-datas-fusos-e-series-tabulares/) | Datas, fusos e séries tabulares |
+| [29-trabalhar-com-limites-de-memoria/](29-trabalhar-com-limites-de-memoria/) | Trabalhar com limites de memória |
 | [30-escolher-grafico-pela-pergunta/](30-escolher-grafico-pela-pergunta/) | Escolher gráfico pela pergunta |
 | [31-construir-graficos-estaticos/](31-construir-graficos-estaticos/) | Construir gráficos estáticos |
 | [32-evitar-interpretacoes-enganosas/](32-evitar-interpretacoes-enganosas/) | Evitar interpretações enganosas |
